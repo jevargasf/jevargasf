@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Sobre mí
 
 ~~~
-📋  Mi nombre es Javier, soy un desarrollador de aplicaciones web fullstack.
+📋  Mi nombre es Javier, soy un desarrollador de aplicaciones web fullstack ubicado en Rancagua, Chile.
 ~~~
 
 ## Mi experiencia
