@@ -1,10 +1,8 @@
 # ¡Hola! 👋 Te cuento un poco sobre mí
 
 ## Mi experiencia
-~~~
-def funciones():
-     pass
 
+~~~
 📋  Mi nombre es Javier, soy un desarrollador de aplicaciones web fullstack.
 
 🐋  Tengo 2 años de experiencia en el mundo de la programación web ejerciendo de manera independiente.
