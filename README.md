@@ -1,30 +1,42 @@
-## ¡Hola! 👋 Te cuento un poco sobre mí
+# ¡Hola! 👋 Te cuento un poco sobre mí
 
-📋  Mi nombre es Javier, soy un desarrollador de aplicaciones web fullstack. 
+## Mi experiencia
+~~~
+📋  Mi nombre es Javier, soy un desarrollador de aplicaciones web fullstack.
 
 🐋  Tengo 2 años de experiencia en el mundo de la programación web ejerciendo de manera independiente.
 
+
 📌  Actualmente estoy estudiando la carrera de Analista Programador en Inacap Rancagua. 
 
-💻  Realicé el bootcamp de progamación de aplicaciones web fullstack JavaScript de Talento Digital en 2023 y el bootcamp de desarrollo de aplicaciones web fullstack Python en 2024.
+💻  Realicé el bootcamp de progamación de aplicaciones web fullstack JavaScript de Talento Digital en 2023
+y el bootcamp de desarrollo de aplicaciones web fullstack Python en 2024.
+~~~
 
-🤔  Soy un entusiasta de la programación, la informática, las matemáticas y de reflexionar sobre el impacto social de la tecnología en nuestro mundo.
+## Mis intereses
+~~~
+🤔  Soy un entusiasta de la programación, la informática, las matemáticas y de reflexionar sobre el impacto social
+de la tecnología en nuestro mundo.
 
-⚙️  Estoy interesando en trabajar en proyectos que busquen entregar soluciones a distintos tipos de organizaciones: empresas, emprendedores y organizaciones sin ánimo de lucro.
+⚙️  Estoy interesando en trabajar en proyectos que busquen entregar soluciones a distintos tipos de organizaciones:
+empresas, emprendedores y organizaciones sin ánimo de lucro.
 
-📕  Fun fact: También, soy Licenciado en Sociología de la Universidad de Chile.
+~~~
+~~~
+📕  *Fun fact*: También, soy Licenciado en Sociología de la Universidad de Chile.
+~~~
 
 
 ## Algunos proyectos
 
-🍮  Dame Flans es una aplicación web para un e-commerce desrrollada en Django en el marco del bootcamp de desarrollo de aplicaciones fullstack Python. 
+~~~
+🍮  Dame Flans es una aplicación web para un e-commerce desrrollada en Django en el marco del bootcamp de desarrollo de aplicaciones fullstack Python. El proyecto actualmente permite:
+________________________________
+      * Mostrar productos a usuarios no registrados
+      * Registro y login de usuarios
+      * Mostrar productos exclusivos para usuarios registrados
+      * El proyecto está desplegado en una máquina virtual Linux alojada en Oracle Cloud
 
-El proyecto actualmente permite:    
-      - Mostrar productos a usuarios no registrados
-      - Registro y login de usuarios
-      - Mostrar productos exclusivos para usuarios registrados
-      - El proyecto está desplegado en una máquina virtual Linux alojada en Oracle Cloud
-
-Puedes acceder al proyecto en: http://146.235.247.217:8000/
-
+### Puedes acceder al proyecto en: http://146.235.247.217:8000/
+~~~
 
