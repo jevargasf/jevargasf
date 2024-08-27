@@ -1,4 +1,8 @@
-# ¡Hola! 👋 Te cuento un poco sobre mí
+# ¡Hola! 👋 Sobre mí
+
+~~~
+📋  Mi nombre es Javier, soy un desarrollador de aplicaciones web fullstack.
+~~~
 
 ## Mi experiencia
 
@@ -6,7 +10,6 @@
 📋  Mi nombre es Javier, soy un desarrollador de aplicaciones web fullstack.
 
 🐋  Tengo 2 años de experiencia en el mundo de la programación web ejerciendo de manera independiente.
-
 
 📌  Actualmente estoy estudiando la carrera de Analista Programador en Inacap Rancagua. 
 
