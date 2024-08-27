@@ -30,7 +30,8 @@ empresas, emprendedores y organizaciones sin ánimo de lucro.
 ## Algunos proyectos
 
 ~~~
-🍮  Dame Flans es una aplicación web para un e-commerce desrrollada en Django en el marco del bootcamp de desarrollo de aplicaciones fullstack Python. El proyecto actualmente permite:
+🍮  Dame Flans es una aplicación web para un e-commerce desrrollada en Django en el marco del bootcamp de desarrollo de
+aplicaciones fullstack Python. El proyecto actualmente permite:
 ________________________________
       * Mostrar productos a usuarios no registrados
       * Registro y login de usuarios
