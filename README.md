@@ -17,7 +17,7 @@
 
 ## Algunos proyectos
 
-Dame Flans es una aplicación web para un e-commerce desrrollada en Django en el marco del bootcamp de desarrollo de aplicaciones fullstack Python. 
+🍮  Dame Flans es una aplicación web para un e-commerce desrrollada en Django en el marco del bootcamp de desarrollo de aplicaciones fullstack Python. 
 
 El proyecto actualmente permite:    
       - Mostrar productos a usuarios no registrados
