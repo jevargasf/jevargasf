@@ -34,15 +34,8 @@ organizaciones: empresas, emprendedores y organizaciones sin ánimo de lucro.
 ## Algunos proyectos
 
 
-🍮  Dame Flans es una aplicación web para un e-commerce desrrollada en Django en el marco del bootcamp de desarrollo de
-aplicaciones fullstack Python. El proyecto actualmente permite:
-
-      * Mostrar productos a usuarios no registrados
-      * Registro y login de usuarios
-      * Mostrar productos exclusivos para usuarios registrados
-      * El proyecto está desplegado en una máquina virtual Linux alojada en Oracle Cloud
-
-Puedes acceder al proyecto en: <http://146.235.247.217:8000/>
+💡 CreActiva Animaciones es una plataforma web que permite la administración, visualización y venta de cursos interactivos.
+Puedes visitar el proyecto en: <https://www.creactivaanimaciones.cl>
 
 
 
