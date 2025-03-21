@@ -17,7 +17,7 @@ y el bootcamp de desarrollo de aplicaciones web fullstack Python en 2024.
 
 ## Mis intereses
 ~~~
-🤔  Soy un entusiasta de la programación, la informática, las matemáticas y de reflexionar sobre el impacto
+🤔  Soy un entusiasta de la programación, la informática, las matemáticas y el impacto
 social de la tecnología en nuestro mundo.
 
 ⚙️  Estoy interesado en trabajar en proyectos que busquen entregar soluciones a distintos tipos de
