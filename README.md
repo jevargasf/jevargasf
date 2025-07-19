@@ -3,7 +3,7 @@
 Aquí encontrarás algunos proyectos que he hecho para clientes y como autoaprendizaje:
 
   💡 CreActiva Animaciones es una plataforma web que permite la administración, visualización y venta de cursos interactivos.
-  Puedes visitar el proyecto haciendo [click aquí](https://www.creactivaanimaciones.cl)
+  Puedes visitar el proyecto haciendo [click aquí](https://www.creactivaanimaciones.cl).
 
   🐍 Aplicación escrita en Python para manejar CRUD utilizando MongoDB montada sobre una instancia EC2 de AWS en una máquina
   Windows Server 2019.
