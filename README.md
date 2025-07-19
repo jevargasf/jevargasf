@@ -1,4 +1,5 @@
 # ¡Hola! 👋 Bienvenido a mi portafolio. 
+ [click aquí](http://4.246.225.177/) 
 
 Aquí encontrarás algunos proyectos que he hecho para clientes y como autoaprendizaje:
 ~~~
@@ -10,7 +11,7 @@ Windows Server 2019.
 
 ✏️ Sitio web para servir contenido estático montado sobre una instancia VM de Azure en una máquina Linux. Creado para tener 
 un lugar en intenet para subir traducciones de textos que me parecen interesantes y otro tipo de escritos. Puedes visitar
-el proyecto haciendo [click aquí](http://4.246.225.177/) 
+el proyecto haciendo
 ~~~
 
 # Sobre mí
