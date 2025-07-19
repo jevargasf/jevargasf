@@ -42,7 +42,7 @@ hecho antes.
 
 # Fun fact
 ~~~
-📕  También, soy Licenciado en Sociología de la Universidad de Chile.
+📕  También, soy Licenciado en Sociología.
 ~~~
 
 
