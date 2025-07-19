@@ -26,8 +26,8 @@ Aquí encontrarás algunos proyectos que he hecho para clientes y como autoapren
 📌  Actualmente cursando el último semestre de la carrera de Analista Programador en Inacap Rancagua. 
 
 💻  Poseo dos certificaciones de Talento Digital en desarrollo de aplicaciones web full stack utilizando
-Python y JavaScript, respectivamente. Actualmente, estoy cursando la certificación de hacking ético en
-Aplicativos Web.
+Python y JavaScript, respectivamente. Actualmente, estoy cursando una certificación de hacking ético en
+aplicativos web.
 ~~~
 
 ## Mis intereses
