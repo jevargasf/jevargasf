@@ -8,7 +8,7 @@ Aquí encontrarás algunos proyectos que he hecho para clientes y como autoapren
   🐍 Aplicación escrita en Python para manejar CRUD utilizando MongoDB montada sobre una instancia EC2 de AWS en una máquina
   Windows Server 2019.
 
-  ✏️ Sitio web para servir contenido estático montado sobre una instancia VM de Azure en una máquina Linux. Creado para tener 
+  ✏️ Sitio web para servir contenido estático montado sobre una instancia VM de Azure en una máquina Ubuntu. Creado para tener 
   un lugar en intenet para subir traducciones de textos que me parecen interesantes y otro tipo de escritos. Puedes visitar
   el proyecto haciendo [click aquí](http://4.246.225.177/).
 
