@@ -23,7 +23,7 @@ Aquí encontrarás algunos proyectos que he hecho para clientes y como autoapren
 ~~~
 🐋  Tengo 3 años de experiencia en el mundo de la programación web ejerciendo de manera independiente.
 
-📌  Actualmente estoy estudiando la carrera de Analista Programador en Inacap Rancagua. 
+📌  Actualmente cursando el último semestre la carrera de Analista Programador en Inacap Rancagua. 
 
 💻  Poseo dos certificaciones de Talento Digital en desarrollo de aplicaciones web full stack utilizando
 Python y JavaScript, respectivamente. Actualmente, estoy cursando la certificación de hacking ético en
