@@ -3,7 +3,10 @@
 Aquí encontrarás algunos proyectos que he hecho para clientes y como autoaprendizaje:
 
   💡 CreActiva Animaciones es una plataforma web que permite la administración, visualización y venta de cursos interactivos.
-  Puedes visitar el proyecto haciendo [click aquí](https://www.creactivaanimaciones.cl).
+  Puedes visitar el proyecto haciendo [click aquí](https://www.creactivaanimaciones.cl). Fue desarrollado con Django y posee
+  integraciones con el reproductor Camtasia de TechSmith para mostrar contenido interactivo y WebPay como pasarela de pagos.
+  La plataforma actualmente se encuentra en producción, tiene más de 100 usuarios registrados y ya cuenta con sus primeros 
+  suscriptores. 
 
   🐍 Aplicación escrita en Python para manejar operaciones CRUD sobre una base de datos MongoDB. Permite gestionar el agregar,
   ver, buscar, actualizar y eliminar registros de institutos Teletón. Está montada sobre una instancia VM de AWS en una máquina
