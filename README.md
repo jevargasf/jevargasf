@@ -9,9 +9,9 @@ Aquí encontrarás algunos proyectos que he hecho para clientes y como autoapren
   ver, buscar, actualizar y eliminar registros de institutos Teletón. Está montada sobre una instancia VM de AWS en una máquina
   Rocky Linux. Puedes ingresar al proyecto haciendo [click aquí](http://20.83.186.150:8000/) (Edit: Front end en construcción).
 
-  ✏️ Sitio web para servir contenido estático montado sobre una instancia VM de Azure en una máquina Ubuntu. Creado para tener 
-  un lugar en intenet para subir traducciones de textos que me parecen interesantes y otro tipo de escritos. Puedes visitar
-  el proyecto haciendo [click aquí](http://4.246.225.177/).
+  ✏️ Sitio web para servir contenido estático montado en un servidor Apache sobre una instancia VM de Azure con sistema operativo 
+  Ubuntu. Creado para tener un lugar en intenet para subir traducciones de textos que me parecen interesantes y otro tipo de escritos. 
+  Puedes visitar el proyecto haciendo [click aquí](http://4.246.225.177/).
 
 
 # Sobre mí
