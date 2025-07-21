@@ -5,8 +5,9 @@ Aquí encontrarás algunos proyectos que he hecho para clientes y como autoapren
   💡 CreActiva Animaciones es una plataforma web que permite la administración, visualización y venta de cursos interactivos.
   Puedes visitar el proyecto haciendo [click aquí](https://www.creactivaanimaciones.cl).
 
-  🐍 Aplicación escrita en Python para manejar CRUD utilizando MongoDB montada sobre una instancia EC2 de AWS en una máquina
-  Windows Server 2019.
+  🐍 Aplicación escrita en Python para manejar operaciones CRUD sobre una base de datos MongoDB. Permite gestionar el agregar,
+  ver, buscar, actualizar y eliminar registros de institutos Teletón. Está montada sobre una instancia VM de AWS en una máquina
+  Rocky Linux. Puedes ingresar al proyecto haciendo [click aquí](http://20.83.186.150:8000/) (Edit: Front end en construcción).
 
   ✏️ Sitio web para servir contenido estático montado sobre una instancia VM de Azure en una máquina Ubuntu. Creado para tener 
   un lugar en intenet para subir traducciones de textos que me parecen interesantes y otro tipo de escritos. Puedes visitar
