@@ -3,7 +3,7 @@
 Aquí encontrarás algunos proyectos que he hecho para clientes y como autoaprendizaje:
 
   💡 CreActiva Animaciones es una plataforma web que permite la administración, visualización y venta de cursos interactivos.
-  Puedes visitar el proyecto haciendo [click aquí](https://www.creactivaanimaciones.cl). Fue desarrollado con Django y posee
+  Puedes visitar el proyecto haciendo [click aquí](https://www.creactivaanimaciones.cl). Fue desarrollado con Django. Posee
   integraciones con el reproductor Camtasia de TechSmith para mostrar contenido interactivo y WebPay como pasarela de pagos.
   La plataforma actualmente se encuentra en producción, tiene más de 100 usuarios registrados y ya cuenta con sus primeros 
   suscriptores. 
