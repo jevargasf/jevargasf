@@ -45,7 +45,7 @@ cosas nuevas.
 
 ~~~
 
-# Fun fact
+## Fun fact
 ~~~
 📕  También, soy Licenciado en Sociología.
 ~~~
