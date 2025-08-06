@@ -10,7 +10,7 @@ Aquí encontrarás algunos proyectos que he hecho para clientes y como autoapren
 
   🐍 Aplicación escrita en Python para manejar operaciones CRUD sobre una base de datos MongoDB. Permite gestionar el agregar,
   ver, buscar, actualizar y eliminar registros de institutos Teletón. Está montada sobre una instancia VM de AWS en una máquina
-  Rocky Linux. Puedes ingresar al proyecto haciendo [click aquí](http://20.83.186.150:8000/). Front end en construcción.
+  Rocky Linux. Puedes ingresar al proyecto haciendo [click aquí](http://20.83.186.150:8000/agregar_registro.html). Front end en construcción.
 
   ✏️ Sitio web para servir contenido estático montado en un servidor Apache sobre una instancia VM de Azure con sistema operativo 
   Ubuntu. Creado para tener un lugar en intenet para subir traducciones de textos que me parecen interesantes y otro tipo de escritos. 
