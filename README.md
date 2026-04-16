@@ -17,13 +17,12 @@ Aquí encontrarás algunos proyectos que he hecho para clientes y como autoapren
 ## Mi experiencia
 
 ~~~
-🐋  Tengo 3 años de experiencia en el mundo de la programación web ejerciendo de manera independiente.
+🐋  Tengo 3 años de experiencia en el mundo de la programación web ejerciendo de manera independiente y servicios públicos.
 
-📌  Actualmente cursando el último semestre de la carrera de Analista Programador en Inacap Rancagua. 
+📌  Profesional titulado de Analista Programador en Inacap Rancagua (2025). 
 
-💻  Poseo dos certificaciones de Talento Digital en desarrollo de aplicaciones web full stack utilizando
-Python y JavaScript, respectivamente. Actualmente, estoy cursando una certificación de hacking ético en
-aplicativos web.
+💻  Poseo tres certificaciones de Talento Digital. Dos de desarrollo de aplicaciones web full stack utilizando
+Python y JavaScript, respectivamente, y la tercera en hacking ético en aplicativos web.
 ~~~
 
 ## Mis intereses
